@@ -1,0 +1,1 @@
+# ARX_WeeklyPrice_NordPool_R
